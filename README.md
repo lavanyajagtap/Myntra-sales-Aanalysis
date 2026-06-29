@@ -66,9 +66,10 @@ An interactive **Power BI Sales Dashboard** developed to analyze Myntra's sales 
 
 ## 👩‍💻 Author
 
-**Lavanya Jagtap**
+#**Lavanya Jagtap**
+(Passionate Data Analyst)
 
-Passi Data Analyst | Power BI | Power Query | Excel 
+Power BI | Power Query | Excel 
 
 If you found this project useful, please ⭐ star this repository!
 
