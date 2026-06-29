@@ -47,7 +47,20 @@ An interactive **Power BI Sales Dashboard** developed to analyze Myntra's sales 
 - Compared customer purchasing patterns across different states.
 - Created dynamic KPIs and interactive dashboards for better decision-making.
 
-## 📷 Dashboard Preview
+### Dashboard Preview
+
+![Dashboard](https://github.com/lavanyajagtap/Myntra-sales-Aanalysis/blob/main/Myantra%20Dashboard%201.png)
+
+---
+![Dashboard](https://github.com/lavanyajagtap/Myntra-sales-Aanalysis/blob/main/Myantra%20Dashboard%20PRODUCT%20PERFORMANCE%202.png)
+
+---
+![Dashboard](https://github.com/lavanyajagtap/Myntra-sales-Aanalysis/blob/main/Myantra%20Dashboard%20%20Customers%20Details%203.png)
+
+---
+![Dashboard](https://github.com/lavanyajagtap/Myntra-sales-Aanalysis/blob/main/Myantra%20Dashboard%20Discounts%20Analysis.png)
+
+---
 
 
 
@@ -55,7 +68,7 @@ An interactive **Power BI Sales Dashboard** developed to analyze Myntra's sales 
 
 **Lavanya Jagtap**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+Passi Data Analyst | Power BI | Power Query | Excel 
 
 If you found this project useful, please ⭐ star this repository!
 
